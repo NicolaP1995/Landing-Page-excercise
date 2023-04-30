@@ -5,17 +5,20 @@
 
 .header {
     background-color: #1f2937;
+    font-style: hero;
 }
 
 .header-top {
     display: flex;
     justify-content: space-between;
-    color: white;
-    font-size: 18px;
     flex: auto;
 }
 
-.header-logo
+.header-logo {
+    color: #f9faf8;
+    font-size: 24px;
+    font-weight: bold;
+}
 
 ul {
     display: flex;
@@ -23,6 +26,8 @@ ul {
     flex: auto;
     justify-content: flex-end;
     gap: 30px;
+    color: #e5e7eb;
+    font-size: 18px;
 
 }
 
@@ -39,4 +44,9 @@ a {
     color: white;
     font-size: 48px;
     font-weight: extra-bold;
+}
+
+.titlesub {
+    color: #e5e7eb;
+    font-size: 18px;
 }
