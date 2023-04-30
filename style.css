@@ -1,0 +1,42 @@
+* {
+   padding: 0;
+   margin: 0; 
+}
+
+.header {
+    background-color: #1f2937;
+}
+
+.header-top {
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    font-size: 18px;
+    flex: auto;
+}
+
+.header-logo
+
+ul {
+    display: flex;
+    list-style: none;
+    flex: auto;
+    justify-content: flex-end;
+    gap: 30px;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+.header-body {
+    display: flex;
+    color: white;
+}
+
+.title {
+    color: white;
+    font-size: 48px;
+    font-weight: extra-bold;
+}
