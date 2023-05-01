@@ -12,12 +12,16 @@
     display: flex;
     justify-content: space-between;
     flex: auto;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 20px;
 }
 
 .header-logo {
     color: #f9faf8;
     font-size: 24px;
     font-weight: bold;
+    margin-top: 10px;
 }
 
 ul {
@@ -28,6 +32,7 @@ ul {
     gap: 30px;
     color: #e5e7eb;
     font-size: 18px;
+    margin-top: 10px;
 
 }
 
@@ -37,7 +42,19 @@ a {
 
 .header-body {
     display: flex;
+    justify-content: space-between;
     color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+}
+
+.hbright {
+    max-height: 200px;
+}
+
+.hbleft {
+    max-width: 300px;
 }
 
 .title {
