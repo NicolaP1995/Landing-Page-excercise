@@ -91,3 +91,13 @@ a {
     font-weight: bolder;
     
 }
+
+.body-pics img {
+    border: solid 3px #096ee0c4;
+    border-radius: 8px;
+}
+
+.img-text {
+    display: flex;    
+
+}
