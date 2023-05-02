@@ -72,10 +72,22 @@ a {
 .title {
     color: white;
     font-size: 48px;
-    font-weight: extra-bold;
+    font-weight: bolder;
 }
 
 .titlesub {
     color: #e5e7eb;
     font-size: 18px;
+}
+
+.body {
+    display: flex;
+    justify-content: center;
+}
+
+.body-top-text {
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: bolder;
+    
 }
