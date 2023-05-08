@@ -78,17 +78,22 @@ a {
 .titlesub {
     color: #e5e7eb;
     font-size: 18px;
+    margin-bottom: 10px;
 }
 
 .body {
     display: flex;
     justify-content: center;
+    margin: 50px;
+    text-align: center;
 }
 
 .body-top-text {
+    display: flex;
     color: #1f2937;
     font-size: 36px;
     font-weight: bolder;
+    justify-content: center;
     
 }
 
@@ -97,7 +102,16 @@ a {
     border-radius: 8px;
 }
 
-.img-text {
-    display: flex;    
+.body-pics {
+    display: flex;
+    color: #1f2937;
+    justify-content: center;
+    margin: 20px 50px 200px 200px;
+    gap: 40px;
 
 }
+
+.img1 {
+    
+}
+
