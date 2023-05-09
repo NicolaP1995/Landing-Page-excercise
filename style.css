@@ -136,4 +136,28 @@ a {
     margin-left: 370px;
 }
 
+.footer {
+}
+
+.footerbox {
+    display: flex;
+    background-color: #3882f6;
+    border-radius: 18px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 50px;
+    margin: 80px 150px 100px 150px;
+    color: #f9faf8;
+    font-size: 24px;
+    font-weight: bolder;
+}
+
+.ftext .fsubtext {
+    color: #e5e5e5;
+    font-weight: lighter;
+    font-size: 18px;
+}
+
+
+
 
