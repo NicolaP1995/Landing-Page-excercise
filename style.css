@@ -106,13 +106,25 @@ a {
     display: flex;
     color: #1f2937;
     justify-content: center;
-    margin: 20px 50px 200px 200px;
+    margin: 20px 50px 20px 200px;
     gap: 40px;
 
 }
 
 .body-middle {
-    display: ;
+    background-color: #e5e7eb;
+    padding: 50px;
+    font-weight: lighter;
+}
+
+.bmiddlequote {
+    display: flex;
+    margin-left: 350px;
+    margin-right: 350px;
+    font-size: 36px;
+    color: #1f2937;
+    font-style: italic;
+    
 }
 
 
