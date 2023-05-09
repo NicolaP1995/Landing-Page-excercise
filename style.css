@@ -114,17 +114,26 @@ a {
 .body-middle {
     background-color: #e5e7eb;
     padding: 50px;
-    font-weight: lighter;
 }
 
 .bmiddlequote {
     display: flex;
-    margin-left: 350px;
-    margin-right: 350px;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-bottom: px;
     font-size: 36px;
     color: #1f2937;
+    font-weight: lighter;
     font-style: italic;
-    
+    flex-wrap: wrap;
+}
+
+.quotesign {
+    font-size: 32px;
+    font-weight: bolder;
+    color: #1f2937;
+    margin: 20px;
+    margin-left: 370px;
 }
 
 
