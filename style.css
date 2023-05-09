@@ -123,14 +123,14 @@ a {
     margin-bottom: px;
     font-size: 36px;
     color: #1f2937;
-    font-weight: lighter;
+    font-weight: lighter; 
     font-style: italic;
     flex-wrap: wrap;
 }
 
 .quotesign {
     font-size: 32px;
-    font-weight: bolder;
+    font-weight: bolder; 
     color: #1f2937;
     margin: 20px;
     margin-left: 370px;
